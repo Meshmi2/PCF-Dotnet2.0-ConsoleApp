@@ -8,3 +8,15 @@
 /Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.AssemblyInfo.cs
 /Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.dll
 /Users/ravijagannathan/DOTNETCORE2/obj/Debug/netcoreapp2.0/DOTNETCORE2.pdb
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\bin\Debug\netcoreapp2.0\DOTNETCORE2.deps.json
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\bin\Debug\netcoreapp2.0\DOTNETCORE2.runtimeconfig.json
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\bin\Debug\netcoreapp2.0\DOTNETCORE2.runtimeconfig.dev.json
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\bin\Debug\netcoreapp2.0\DOTNETCORE2.dll
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\bin\Debug\netcoreapp2.0\DOTNETCORE2.pdb
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.csprojAssemblyReference.cache
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.AssemblyInfoInputs.cache
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.AssemblyInfo.cs
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.dll
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.pdb
+C:\Users\meshmi\Documents\GitHub\PCF-Dotnet4.7-ConsoleApp\obj\Debug\netcoreapp2.0\DOTNETCORE2.genruntimeconfig.cache
